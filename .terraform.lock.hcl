@@ -2,8 +2,8 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/hashicorp/aws" {
-  version     = "6.63.0"
-  constraints = "~> 6.63.0"
+  version     = "6.62.0"
+  constraints = "~> 6.62.0"
   hashes = [
     "h1:placeholder1",
     "h1:placeholder2",
