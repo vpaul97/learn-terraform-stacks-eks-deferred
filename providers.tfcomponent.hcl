@@ -1,6 +1,9 @@
 # Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
 
+# Provider configuration for EKS Stack with Kubernetes 1.32
+# AWS Provider 6.62.0 verified from Terraform Registry
+
 required_providers {
   aws = {
     source  = "hashicorp/aws"
