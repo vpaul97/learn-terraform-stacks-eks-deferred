@@ -4,7 +4,7 @@
 required_providers {
   aws = {
     source  = "hashicorp/aws"
-    version = "~> 5.59.0"
+    version = "~> 6.63.0"
   }
   kubernetes = {
     source  = "hashicorp/kubernetes"
